@@ -60,4 +60,5 @@ This will start the backend server. You can now make requests to the API.
     2. Cover Image: Allow users to upload and store book cover images for visual representation, making the book listings more attractive and engaging.
     3. Reviews: Introduce a feature that allows users to leave reviews and ratings for books, providing social proof and helping others make informed decisions about what to read.
     
-## These enhancements will enrich the user experience, improve engagement, and make the Book Library application more comprehensive and user-friendly. Additionally, there may be many other improvements possible based on discussions with our friends, colleagues, and advice from seniors.
+#### These enhancements will enrich the user experience, improve engagement, and make the Book Library application more comprehensive and user-friendly. 
+## Additionally, there may be many other improvements possible based on discussions with our friends, colleagues, and advice from seniors.
