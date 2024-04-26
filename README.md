@@ -61,4 +61,4 @@ This will start the backend server. You can now make requests to the API.
     3. Reviews: Introduce a feature that allows users to leave reviews and ratings for books, providing social proof and helping others make informed decisions about what to read.
     
 #### These enhancements will enrich the user experience, improve engagement, and make the Book Library application more comprehensive and user-friendly. 
-## Additionally, there may be many other improvements possible based on discussions with our friends, colleagues, and advice from seniors.
+## Additionally, there may be many other improvements possible based on discussions with friends, colleagues, or advice from seniors.
